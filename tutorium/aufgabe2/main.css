@@ -1,0 +1,17 @@
+body {
+    width: 656px;
+}
+.board {
+    height: 80px;
+    width: 80px;
+    border: 1px solid black;
+    float: left;
+}
+
+.white {
+    background: white;
+}
+
+.black {
+    background: black;   
+}
