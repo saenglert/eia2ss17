@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 100px;
+    height: 120px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#alpha {
+    background: red;
+}
+
+#beta {
+    background: green;
+}
+
+#delta {
+    background: blue;
+}
