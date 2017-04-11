@@ -8,6 +8,7 @@ div {
     height: 120px;
     border: 1px solid black;
     display: inline-block;
+    position: absolute;
 }
 
 #alpha {
